@@ -1,3 +1,107 @@
 body {
-    background-color: red;
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
 }
+
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu {
+    background-color: antiquewhite;
+    height: 80px;
+    line-height: 80px;
+    width: 368px;
+}
+#logo {
+    width: 592px;
+}
+
+#menu li {
+    display: inline;
+}
+
+#banner {
+    background-image: url("../images/happy-people.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+
+}
+
+#hero-text {
+    position: relative;
+    background-color: white;
+    width: 367px;
+    top: 50px;
+    left: 100px;
+}
+
+
+.std-padding {
+    padding-left: 31px;
+    padding-right: 31px;
+}
+
+.borderThin {
+    border: 1px solid black;
+
+}
+#content {
+    width: 544px;
+    background-color: green;
+    padding-left: 24px;
+    padding-right: 24px;
+    line-height: 27px;
+
+}
+
+.margin_clear {
+    margin: 0px;
+}
+
+.floatLeft {
+    float: left;
+}
+
+#sidebar {
+    background-color: chocolate;
+    width: 368px;
+}
+
+.clear-fix {
+    clear:both;
+}
+#footer {
+    background-color: bisque;
+
+}
+
+.centerText {
+    text-align: center;
+
+}
+
+
+.std_panel_width {
+    width: 256px;
+}
+
+#panel3 {
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
